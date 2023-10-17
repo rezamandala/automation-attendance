@@ -1,6 +1,6 @@
 name: Clock Out
 on:
-# set cron around 8.03 (UTC+7) // sometimes cron will execute at 8.50, so be carefull to set the schedule
+# set cron around 17.03 (UTC+7) // sometimes cron will execute at 17.50, so be carefull to set the schedule
 # * * * * * perintah yang akan dieksekusi
 # – – – – –
 # | | | | |
