@@ -9,8 +9,8 @@ on:
 # | | +——— day of month (1 – 31)
 # | +———– hour (0 – 23)
 # +————- min (0 – 59)
-  schedule:
-    - cron: "30 0 * * *"
+ # schedule:
+  #  - cron: "30 0 * * *"
   workflow_dispatch: {}
 jobs:
   run:
